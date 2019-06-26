@@ -1,0 +1,12 @@
+1.6
+
+*Added: Experimental UWP build
+*Added: IFC importer working on Android
+*Added: Alpha material importing (cutout and transparent)
+*Added: Function to import models from memory. (AssimpLoader.LoadFromMemory)
+*Added: PreTransformVertices advanced loading option
+*Fixed: Android/iOS non-embedded texture loading issues
+*Fixed: FBX embedding texture issues
+*Fixed: OSX iOS dependency
+*Fixed: Linux native plugin naming issue
+*Updated Assimp version

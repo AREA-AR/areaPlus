@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{B7FC1270-448F-7CC0-9F26-F7C52F36598D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/otherFunc.cs">
+    <Files>
+      <File FileName="Assets/SimpleCloudHandler.cs" Line="245" Column="10" />
+      <File FileName="Assets/otherFunc.cs" Line="12" Column="72" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
